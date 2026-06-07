@@ -26,14 +26,6 @@
 
 ---
 
-### 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orbaymstf&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orbaymstf&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🌐 İletişim
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-orbay-9a7183119/)
 
