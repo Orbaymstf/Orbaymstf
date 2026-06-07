@@ -1,48 +1,43 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mustafa%20Orbay&fontSize=60&fontAlignY=35&desc=Game%20Developer%20%7C%20Web%20%26%20Mobile%20Solutions&descSize=20" />
-</div>
+# Merhaba, ben Mustafa Orbay! 👋
 
-<br>
+### Yazılım Geliştirici | Oyun & Web Çözümleri
 
-<h2 align="center">🛠 Teknolojiler & Araçlar</h2>
-<p align="center">
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-</p>
+Yazılım geliştirme tutkusuyla projeler üreten, mobil ve oyun dünyasında çözüm odaklı bir geliştiriciyim. Orbay Studio bünyesinde yenilikçi uygulamalar ve kurumsal web çözümleri geliştiriyorum.
 
 ---
 
-## 🚀 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **[Memory Pro](https://play.google.com/store/apps/details?id=com.orbaystudio.memorypro)** | Hafıza Geliştirme Oyunu | Unity, C# |
-| **[Kapalıçarşı Kuyumcu](https://kapal-ar-kuyumcu.vercel.app/)** | Modern Kuyumculuk Platformu | React |
-| **[Orbay Gold Display](https://orbay-gold-display.vercel.app/)** | Dinamik Veri Görselleştirme | JavaScript |
-| **[724 Ankara Tesisat](https://724ankaratesisat.com)** | Kurumsal Hizmet Sitesi | Web, SEO |
+### 🛠 Teknik Yeteneklerim
+* **Oyun Geliştirme:** Unity, C#
+* **Mobil Uygulama:** Flutter, Dart
+* **Web:** React, JavaScript, HTML, CSS, SEO
+* **Diğer:** Firebase, Git/GitHub, UI/UX Tasarım
 
 ---
 
-## 📈 Yazılım Odaklı İstatistiklerim
+### 🚀 Öne Çıkan Projelerim
 
-* **Oyun Geliştirme:** %40 (Unity ekosistemi ve C#)
-* **Web Geliştirme:** %35 (React, JS, Modern Web)
-* **Mobil Uygulama:** %25 (Flutter & Cross-platform)
+**1. [Memory Pro](https://play.google.com/store/apps/details?id=com.orbaystudio.memorypro)**
+* *Hafıza geliştirme üzerine tasarlanmış, kullanıcı dostu mobil oyun.*
+* Teknolojiler: Unity, C#, Firebase.
+
+**2. [Kapalıçarşı Kuyumcu](https://kapal-ar-kuyumcu.vercel.app/)**
+* *Modern ve kullanıcı dostu kuyumculuk platformu.*
+* Teknolojiler: React, Vercel.
+
+**3. [Orbay Gold Display](https://orbay-gold-display.vercel.app/)**
+* *Dinamik verileri görselleştiren şık bir web arayüzü.*
+* Teknolojiler: JavaScript, Web.
+
+**4. [724 Ankara Tesisat](https://724ankaratesisat.com)**
+* *Kurumsal hizmet ve SEO odaklı web projesi.*
+
+**5. [arenyapitesisat.com](https://arenyapitesisat.com)**
+* *Kurumsal web çözümü.*
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-orbay-9a7183119/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://orbaystudio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+### 🌐 İletişim ve Portfolyo
+* **Portfolyo Sitem:** [orbaystudio.vercel.app](https://orbaystudio.vercel.app/)
+* **LinkedIn:** [linkedin.com/in/mustafa-orbay-9a7183119/](https://www.linkedin.com/in/mustafa-orbay-9a7183119/)
 
-<div align="center">
-  <p><i>Kod yazmak, hayal gücünü gerçeğe dönüştürmenin en estetik yoludur.</i></p>
-</div>
+> "Kod yazmak, hayal gücünü gerçeğe dönüştürmenin en estetik yoludur."
