@@ -1,32 +1,48 @@
-<h1 align="center">Merhaba, ben Mustafa Orbay! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mustafa%20Orbay&fontSize=60&fontAlignY=35&desc=Game%20Developer%20%7C%20Web%20%26%20Mobile%20Solutions&descSize=20" />
+</div>
 
-<h3 align="center">Oyun ve Mobil Uygulama Geliştiricisi | Yazılım Tutkunu</h3>
+<br>
 
+<h2 align="center">🛠 Teknolojiler & Araçlar</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 </p>
 
 ---
 
-### 🌐 Portfolyo
-🚀 **[Orbay Studio - Portfolyo](https://orbaystudio.vercel.app/)**
+## 🚀 Öne Çıkan Projeler
 
-### 🚀 Öne Çıkan Projelerim
-
-| Proje İsmi | Teknoloji | Link |
+| Proje | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
-| **Kapalıçarşı Kuyumcu** | React / Vercel | [Görüntüle](https://kapal-ar-kuyumcu.vercel.app/) |
-| **Orbay Gold Display** | JavaScript | [Görüntüle](https://orbay-gold-display.vercel.app/) |
-| **Memory Pro** | Unity / C# | [Google Play](https://play.google.com/store/apps/details?id=com.orbaystudio.memorypro) |
-| **724 Ankara Tesisat** | Web / SEO | [Görüntüle](https://724ankaratesisat.com/) |
-| **Arena Yapı Tesisat** | Web | [Görüntüle](https://arenyapitesisat.com/) |
+| **[Memory Pro](https://play.google.com/store/apps/details?id=com.orbaystudio.memorypro)** | Hafıza Geliştirme Oyunu | Unity, C# |
+| **[Kapalıçarşı Kuyumcu](https://kapal-ar-kuyumcu.vercel.app/)** | Modern Kuyumculuk Platformu | React |
+| **[Orbay Gold Display](https://orbay-gold-display.vercel.app/)** | Dinamik Veri Görselleştirme | JavaScript |
+| **[724 Ankara Tesisat](https://724ankaratesisat.com)** | Kurumsal Hizmet Sitesi | Web, SEO |
 
 ---
 
-### 🌐 İletişim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-orbay-9a7183119/)
+## 📈 Yazılım Odaklı İstatistiklerim
 
-> *"Kod yazmak, hayal gücünü gerçeğe dönüştürmenin en estetik yoludur."*
+* **Oyun Geliştirme:** %40 (Unity ekosistemi ve C#)
+* **Web Geliştirme:** %35 (React, JS, Modern Web)
+* **Mobil Uygulama:** %25 (Flutter & Cross-platform)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-orbay-9a7183119/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://orbaystudio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <p><i>Kod yazmak, hayal gücünü gerçeğe dönüştürmenin en estetik yoludur.</i></p>
+</div>
